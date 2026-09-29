@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c_sharp\\mvc\\HubPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|c:\\c_sharp\\mvc\\hubpedidos\\api\\utils\\mapeamentodtodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|solutionrelative:api\\utils\\mapeamentodtodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|c:\\c_sharp\\mvc\\hubpedidos\\api\\explicacao.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|solutionrelative:api\\explicacao.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79D6A4-52ED-4CF1-A2FF-BC9523BFD1D4}|Application\\Application.csproj|c:\\c_sharp\\mvc\\hubpedidos\\application\\dtos\\pedidoresponse .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79D6A4-52ED-4CF1-A2FF-BC9523BFD1D4}|Application\\Application.csproj|solutionrelative:application\\dtos\\pedidoresponse .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5725D4E5-378F-44E0-B82D-25BAAC4B1DDB}|Domain\\Domain.csproj|c:\\c_sharp\\mvc\\hubpedidos\\domain\\models\\pedidoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5725D4E5-378F-44E0-B82D-25BAAC4B1DDB}|Domain\\Domain.csproj|solutionrelative:domain\\models\\pedidoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5725D4E5-378F-44E0-B82D-25BAAC4B1DDB}|Domain\\Domain.csproj|c:\\c_sharp\\mvc\\hubpedidos\\domain\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5725D4E5-378F-44E0-B82D-25BAAC4B1DDB}|Domain\\Domain.csproj|solutionrelative:domain\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79D6A4-52ED-4CF1-A2FF-BC9523BFD1D4}|Application\\Application.csproj|c:\\c_sharp\\mvc\\hubpedidos\\application\\dtos\\criarpedidorequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79D6A4-52ED-4CF1-A2FF-BC9523BFD1D4}|Application\\Application.csproj|solutionrelative:application\\dtos\\criarpedidorequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|c:\\c_sharp\\mvc\\hubpedidos\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2B56E-32AA-4C47-BB9B-35E99D1E9C8E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapeamentoDtoDomain.cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Utils\\MapeamentoDtoDomain.cs",
+              "RelativeDocumentMoniker": "Api\\Utils\\MapeamentoDtoDomain.cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Utils\\MapeamentoDtoDomain.cs",
+              "RelativeToolTip": "Api\\Utils\\MapeamentoDtoDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:38:59.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoResponse .cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Dtos\\PedidoResponse .cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\PedidoResponse .cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Dtos\\PedidoResponse .cs",
+              "RelativeToolTip": "Application\\Dtos\\PedidoResponse .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:38:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarPedidoRequest .cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Dtos\\CriarPedidoRequest .cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\CriarPedidoRequest .cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Dtos\\CriarPedidoRequest .cs",
+              "RelativeToolTip": "Application\\Dtos\\CriarPedidoRequest .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:38:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Models\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ItemPedido.cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Models\\ItemPedido.cs",
+              "RelativeToolTip": "Domain\\Models\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:31:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoId.cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Models\\PedidoId.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\PedidoId.cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Models\\PedidoId.cs",
+              "RelativeToolTip": "Domain\\Models\\PedidoId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:05:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:16:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "explicacao.txt",
+              "DocumentMoniker": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\explicacao.txt",
+              "RelativeDocumentMoniker": "Api\\explicacao.txt",
+              "ToolTip": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\explicacao.txt",
+              "RelativeToolTip": "Api\\explicacao.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-28T18:43:36.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

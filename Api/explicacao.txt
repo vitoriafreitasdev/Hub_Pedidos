@@ -1,0 +1,44 @@
+
+
+
+usando a arquitetura domain driven design qual é diferença de domain para application
+15:36
+No Domain-Driven Design (DDD), a Camada de Domínio (Domain) guarda as regras de negócio puras, enquanto a Camada de 
+Aplicação (Application) apenas coordena as tarefas e gerencia o fluxo de uso do sistema
+
+Os DTOs pertencem à camada de Aplicação (Application), enquanto os Models dependem do significado técnico: 
+se forem os modelos conceituais de negócio, pertencem ao Domínio (Domain); se forem modelos de banco de dados, 
+pertencem à Infraestrutura (Infrastructure). A separação dessas responsabilidades garante que o seu domínio continue 
+puro e isolado de fatores externos. Onde cada um se encaixa no DDD
+[ Usuário / API / Tela ]
+        │ (Envia / Recebe DTOs)
+        ▼
+┌────────────────────────────────────────────────────────┐
+│ CAMADA DE APLICAÇÃO (Application)                      │
+│ - DTOs (Data Transfer Objects)                         │
+│ - Input/Output das requisições                         │
+└───────┬────────────────────────────────────────────────┘
+        │ (Converte DTOs em Entidades de Domínio)
+        ▼
+┌────────────────────────────────────────────────────────┐
+│ CAMADA DE DOMÍNIO (Domain)                             │
+│ - Models de Negócio (Entidades e Objetos de Valor)     │
+└───────┬────────────────────────────────────────────────┘
+        │ (Salva o estado atual)
+        ▼
+┌────────────────────────────────────────────────────────┐
+│ CAMADA DE INFRAESTRUTURA (Infrastructure)              │
+│ - Models do ORM (Entidades do Banco de Dados/Tabelas)  │
+
+└────────────────────────────────────────────────────────┘
+Entendendo a fundo1. DTOs (Data Transfer Objects) Camada de Aplicação O que são: Objetos simples 
+(estruturas de dados puras, sem comportamento) usados apenas para transportar dados de fora para dentro do sistema, 
+ou vice-versa. Por que ficam na Aplicação: Eles representam os dados que a API ou a tela precisam enviar (ex: CriarPedidoDTO). 
+Como o Domínio não deve se importar com o formato que o mundo externo envia os dados, a Aplicação recebe o DTO e o 
+transforma em uma Entidade válida do Domínio. 2. Models  Depende do contexto técnico O termo "Model" 
+é genérico e pode causar confusão dependendo do framework (como o Entity Framework, Prisma ou Hibernate). No DDD, separamos 
+o termo em dois: Models de Negócio (Entidades e Value Objects) Domínio: São as classes que contêm as regras 
+de negócio e os comportamentos. Exemplo: Uma classe Pedido que possui o método aplicarDesconto(). Ela garante que o negócio 
+seja respeitado. Models de Persistência (Tabelas do Banco/ORM) Infraestrutura: São as classes mapeadas 
+diretamente para as tabelas do banco de dados. Elas não devem conter lógica de negócio, apenas anotações ou propriedades 
+que o banco de dados exige. 
