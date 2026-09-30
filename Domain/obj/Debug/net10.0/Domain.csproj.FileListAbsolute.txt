@@ -1,0 +1,13 @@
+C:\HubPedidos\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\HubPedidos\Domain\bin\Debug\net10.0\Domain.dll
+C:\HubPedidos\Domain\bin\Debug\net10.0\Domain.pdb
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.dll
+C:\HubPedidos\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.pdb
+C:\HubPedidos\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\HubPedidos\Domain\obj\Debug\net10.0\Domain.csproj.Up2Date

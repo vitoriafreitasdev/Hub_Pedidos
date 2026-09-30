@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\HubPedidos\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj",
+      "projectPath": "C:\\HubPedidos\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\obj\\",
+      "outputPath": "C:\\HubPedidos\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

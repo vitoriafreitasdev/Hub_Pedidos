@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Api.csproj": {}
+    "C:\\HubPedidos\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Api.csproj": {
+    "C:\\HubPedidos\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\HubPedidos\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\Api.csproj",
+        "projectPath": "C:\\HubPedidos\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\c_sharp\\mvc\\HubPedidos\\Api\\obj\\",
+        "outputPath": "C:\\HubPedidos\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj": {
-                "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj"
+              "C:\\HubPedidos\\Application\\Application.csproj": {
+                "projectPath": "C:\\HubPedidos\\Application\\Application.csproj"
               },
-              "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj"
+              "C:\\HubPedidos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\HubPedidos\\Domain\\Domain.csproj"
               }
             }
           }
@@ -62,6 +62,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.12, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.17.13, )"
             }
           },
           "imports": [
@@ -501,14 +505,14 @@
         }
       }
     },
-    "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj": {
+    "C:\\HubPedidos\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\HubPedidos\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj",
+        "projectPath": "C:\\HubPedidos\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\obj\\",
+        "outputPath": "C:\\HubPedidos\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -530,8 +534,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj"
+              "C:\\HubPedidos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\HubPedidos\\Domain\\Domain.csproj"
               }
             }
           }
@@ -846,14 +850,14 @@
         }
       }
     },
-    "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj": {
+    "C:\\HubPedidos\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\HubPedidos\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\Domain.csproj",
+        "projectPath": "C:\\HubPedidos\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\c_sharp\\mvc\\HubPedidos\\Domain\\obj\\",
+        "outputPath": "C:\\HubPedidos\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Application.Dtos
 {
-    internal class CriarPedidoRequest
+    public record CriarPedidoRequest
     {
-        public required string Nome { get; set; }
-        public required string Descricao { get; set; }
-        public required double Valor { get; set; }
+        public required string Nome { get; init; }
+        public required string Descricao { get; init; }
+        public required double Valor { get; init; }
     }
 }

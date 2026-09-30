@@ -5,10 +5,13 @@ using System.Text;
 
 namespace Application.Dtos
 {
-    internal class PedidoResponse
+    public record PedidoResponse
     {
-        public bool CriadoComSucesso { get; set; }
-        public ItemPedido? pedidoCriado { get; set; }
-        public string? Erro { get; set; }
+        public required PedidoId PedidoId { get; init; }
+        public required string Nome { get; init; }
+        public required string Descricao { get; init; }
+        public required double Valor { get; init; }
+
+        public required string Classificacao { get; init; }
     }
 }

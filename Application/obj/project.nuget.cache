@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gHd/d7x9zzg=",
+  "dgSpecHash": "qPpk6TzMqLA=",
   "success": true,
-  "projectFilePath": "C:\\c_sharp\\mvc\\HubPedidos\\Application\\Application.csproj",
+  "projectFilePath": "C:\\HubPedidos\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
